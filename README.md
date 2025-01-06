@@ -3,7 +3,7 @@
 ### Overview
  Various models were considered to classify a patient's surviability including logistic regression models, simple neutral networks, complex neural networks and bayes clasifiers.
 It is found that a logistic regression model performs best with a test set accuracy of 89%, micro precision of 0.89 and micro recall of 0.89.
-Note that Git imposes a 5 second timeout on rich rendering meaning you need to download the file to view it.
+Note that Git imposes a 5 second timeout on rich rendering meaning you need to download the python notebook to view it.
 
 ### Process
 I chose the Support dataset provided by Vanderbilt University Department of Biostatistics and hosted on the UC Irving Machine Learning Repository 1
